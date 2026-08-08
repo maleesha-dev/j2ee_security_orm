@@ -1,4 +1,4 @@
-package lk.novasphere.service;
+package lk.novasphere.servlet;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

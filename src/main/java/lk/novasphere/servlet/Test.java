@@ -1,4 +1,4 @@
-package lk.novasphere.service;
+package lk.novasphere.servlet;
 
 import jakarta.annotation.security.DeclareRoles;
 import jakarta.servlet.ServletException;
